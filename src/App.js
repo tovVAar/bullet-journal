@@ -72,7 +72,7 @@ class App extends Component {
           <MiComponente
             titulo="Esto parece verdad para mí."
             descripcion = "Es una señal."
-            onClick = {this.onClick}
+            onClicked = {this.onClick}
           />
         </div>
       </div>
